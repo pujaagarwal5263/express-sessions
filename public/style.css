@@ -1,0 +1,45 @@
+
+* {
+  box-sizing: border-box;
+}
+.container {
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+}
+input {
+  width: 100px;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background-color: whitesmoke;
+}
+.add-info {
+  padding-left: 14px;
+  font-size: 30px;
+  width: 90rem;
+  height: 50px;
+  background-color: #3197D1;
+  color: aliceblue;
+  border-radius: 0.2rem;
+}
+label {
+  font-size: 30px;
+  color: #80868B;
+}
+input {
+  width: 85rem;
+  border-radius: 00.2rem;
+}
+button {
+  font-size: 15px;
+  width: 6rem;
+  height: 50px;
+  background-color: #3197D1;
+  color: aliceblue;
+  border-radius: 0.2rem;
+  padding-top: 8px;
+  padding-left: 0.4rem;
+}
+
+
